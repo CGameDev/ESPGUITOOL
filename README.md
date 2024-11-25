@@ -5,3 +5,5 @@
 5. The tutorial of how to use the software can be located below.
 6. How to use - https://youtu.be/mGv70Ap7IhM?si=LoAjZzLRXBPNo0bZ
 7. When flashing your device, the software window may not respond, this is normal.
+
+(November 25, 2024) Version 2.0.5.1 -> https://mega.nz/file/yNM2HbqY#KjEbl8u7WyFKaMx7chuWPaGMHc_-xdsNLC1Gtk-47hk
