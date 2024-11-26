@@ -6,4 +6,5 @@
 6. How to use - https://youtu.be/mGv70Ap7IhM?si=LoAjZzLRXBPNo0bZ
 7. When flashing your device, the software window may not respond, this is normal.
 
-(November 25, 2024) Version 2.0.5.1 -> https://mega.nz/file/yNM2HbqY#KjEbl8u7WyFKaMx7chuWPaGMHc_-xdsNLC1Gtk-47hk
+(November 26, 2024) Update Version 2.0.6.1 -> https://mega.nz/file/6JFAwAAT#23AZzqsKym9EMN3PXgc5l1upcSJQhmzcMP73hE_-ABY
+
