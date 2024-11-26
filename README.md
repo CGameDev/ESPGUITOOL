@@ -1,10 +1,6 @@
-1. Click the GUIESPTools.msi file.
-2. Click the "Download Raw File" Option located to the right of the page
-3. Once download, install the GUIESPTools.msi file. - https://youtu.be/LarLk8TGOVg?si=hioFB4y60U702x_6
-4. Before using the software be sure yoy have the "esptool" folder downloaded and extracted.
-5. The tutorial of how to use the software can be located below.
-6. How to use - https://youtu.be/mGv70Ap7IhM?si=LoAjZzLRXBPNo0bZ
-7. When flashing your device, the software window may not respond, this is normal.
+1. Click the link https://mega.nz/file/6JFAwAAT#23AZzqsKym9EMN3PXgc5l1upcSJQhmzcMP73hE_-ABY
+2. Click the "Download File"
+3. Once download unzip, install the GUIESPTools.msi file. - https://youtu.be/deKdGPKwW0o?si=Ns5RJoDSZJkn_3Hs
 
 (November 26, 2024) Update Version 2.0.6.1 -> https://mega.nz/file/6JFAwAAT#23AZzqsKym9EMN3PXgc5l1upcSJQhmzcMP73hE_-ABY
 
